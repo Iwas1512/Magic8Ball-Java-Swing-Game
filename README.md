@@ -1,4 +1,6 @@
-# Magic 8 Ball - Java Swing Application
+# Magic 8 Ball - Java Swing Application:
+![image](https://github.com/user-attachments/assets/157226ea-0813-41b8-9f8b-2c7bb53886fa)
+
 
 A classic Magic 8 Ball fortune-telling application built with Java Swing. Ask any yes/no question and get mystical answers from the digital Magic 8 Ball!
 
