@@ -49,18 +49,6 @@ If you want to compile the code yourself:
 - **Operating System**: Windows, macOS, or Linux
 - **Memory**: Minimal requirements (under 50MB)
 
-## Project Structure
-
-```
-RPGSwing/
-├── src/
-│   ├── App.java                 # Main class to launch the application
-│   ├── Magic8BallFrame.java     # Main window and UI components
-│   ├── Magic8BallPanel.java     # Custom graphics for the 8 ball
-│   └── Magic8BallAnswers.java   # Logic for generating random answers
-├── bin/                         # Compiled class files (auto-generated)
-└── README.md                    # This file
-```
 
 ## Magic 8 Ball Responses
 
