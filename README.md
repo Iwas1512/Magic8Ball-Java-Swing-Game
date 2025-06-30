@@ -4,7 +4,7 @@
 
 A classic Magic 8 Ball fortune-telling application built with Java Swing. Ask any yes/no question and get mystical answers from the digital Magic 8 Ball!
 
-## Features:
+## Features
 
 - **Interactive GUI**: Clean and user-friendly interface with custom graphics
 - **Authentic Magic 8 Ball**: 20 traditional Magic 8 Ball responses including positive, negative, and non-committal answers
